@@ -43,6 +43,7 @@ int main() {
 }
 void inputX() {
     //TODO: Реализовать ввод натурального числа X
+    //Разрабатывается Developer1 - ветка branch_fun_1
 }
 
 void inputN() {
