@@ -43,14 +43,17 @@ int main() {
 }
 void inputX() {
     //TODO: Реализовать ввод натурального числа X
+    //Разрабатывается Developer1 - ветка branch_fun_1
 }
 
 void inputN() {
     // TODO: Реализовать ввод цифры N (меньше количества разрядов X)
+    //Разрабатывается Developer2 - ветка branch_fun_2
 }
 
 void productFirstNDigits() {
     // TODO: Реализовать вычисление произведения первых N цифр числа X
+    //Разрабатывается Developer3 - ветка branch_fun_3
 }
 
 void sumDigitsX() {
