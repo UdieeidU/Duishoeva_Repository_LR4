@@ -58,4 +58,5 @@ void productFirstNDigits() {
 
 void sumDigitsX() {
     // TODO: Реализовать вычисление суммы цифр числа X
+    //Разрабатывается Developer4 - ветка branch_fun_4
 }
