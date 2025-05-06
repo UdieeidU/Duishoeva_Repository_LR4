@@ -47,6 +47,7 @@ void inputX() {
 
 void inputN() {
     // TODO: Реализовать ввод цифры N (меньше количества разрядов X)
+    //Разрабатывается Developer2 - ветка branch_fun_2
 }
 
 void productFirstNDigits() {
