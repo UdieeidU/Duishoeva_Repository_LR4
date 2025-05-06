@@ -53,6 +53,7 @@ void inputN() {
 
 void productFirstNDigits() {
     // TODO: Реализовать вычисление произведения первых N цифр числа X
+    //Разрабатывается Developer3 - ветка branch_fun_3
 }
 
 void sumDigitsX() {
